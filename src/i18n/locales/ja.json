@@ -1,0 +1,32 @@
+{
+  "nav": {
+    "browse": "検索",
+    "lists": "マイリスト",
+    "search": "アニメを検索..."
+  },
+  "anime": {
+    "episodes": "エピソード",
+    "watchNow": "今すぐ見る",
+    "addToList": "リストに追加",
+    "rating": "評価",
+    "status": "状態",
+    "genres": "ジャンル"
+  },
+  "lists": {
+    "createNew": "新規リスト作成",
+    "myLists": "マイリスト",
+    "watching": "視聴中",
+    "completed": "完了",
+    "planToWatch": "視聴予定",
+    "namePlaceholder": "リスト名を入力...",
+    "empty": "このリストにはアニメがありません",
+    "confirmDelete": "このリストを削除してもよろしいですか？",
+    "confirmRemoveAnime": "このアニメをリストから削除してもよろしいですか？"
+  },
+  "common": {
+    "cancel": "キャンセル",
+    "create": "作成",
+    "save": "保存",
+    "delete": "削除"
+  }
+}

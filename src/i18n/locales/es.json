@@ -1,0 +1,32 @@
+{
+  "nav": {
+    "browse": "Explorar",
+    "lists": "Mis Listas",
+    "search": "Buscar anime..."
+  },
+  "anime": {
+    "episodes": "Episodios",
+    "watchNow": "Ver Ahora",
+    "addToList": "Añadir a Lista",
+    "rating": "Calificación",
+    "status": "Estado",
+    "genres": "Géneros"
+  },
+  "lists": {
+    "createNew": "Crear Nueva Lista",
+    "myLists": "Mis Listas",
+    "watching": "Viendo",
+    "completed": "Completado",
+    "planToWatch": "Por Ver",
+    "namePlaceholder": "Nombre de la lista...",
+    "empty": "No hay anime en esta lista",
+    "confirmDelete": "¿Estás seguro de que quieres eliminar esta lista?",
+    "confirmRemoveAnime": "¿Estás seguro de que quieres eliminar este anime de la lista?"
+  },
+  "common": {
+    "cancel": "Cancelar",
+    "create": "Crear",
+    "save": "Guardar",
+    "delete": "Eliminar"
+  }
+}
